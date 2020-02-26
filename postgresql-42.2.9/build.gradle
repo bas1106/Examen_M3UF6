@@ -1,0 +1,6 @@
+configurations.maybeCreate("default")
+
+dependencies {
+
+}
+artifacts.add("default", file('postgresql-42.2.9.jar'))
